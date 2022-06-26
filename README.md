@@ -1,24 +1,27 @@
-# MopUE4 ‚Æ‚Í
-MOPProtocol ‚ğóM‚µ‚Äƒ‚[ƒVƒ‡ƒ“‚ğ”½‰f‚·‚éƒ‰ƒCƒuƒ‰ƒŠ‚Å‚·B
+# MopUE5 ã¨ã¯
+MOPProtocol ã‚’å—ä¿¡ã—ã¦ãƒ¢ãƒ¼ã‚·ãƒ§ãƒ³ã‚’åæ˜ ã™ã‚‹ãƒ©ã‚¤ãƒ–ãƒ©ãƒªã§ã™ã€‚
+A library that receives MOPProtocol and shows motion in Unreal.
 
-## “®ìŠÂ‹«
-- Windows 10 64bit
-- UE4.26.2
+## å‹•ä½œç’°å¢ƒ / Supported OS/Unreal
+- macOS
+- UE5.0.2
 
-## ŠJ”­ŠÂ‹«
-- Windows 10 64bit
-- UE4.26.2
+## é–‹ç™ºç’°å¢ƒ / Developed On
+- macOS
+- UE5.0.2
 
-## g‚¢•û
+## ä½¿ã„æ–¹ / Wiki
 https://github.com/HAL9HARUKU/MopUE4/wiki
 
-## ƒ‰ƒCƒZƒ“ƒX
+## ãƒ©ã‚¤ã‚»ãƒ³ã‚¹ / License
 MIT
 
-## ìÒ
-[‚Í‚é‚­](https://twitter.com/HAL9_HARUKU)
+## ä½œè€… / Creator
+[ã¯ã‚‹ã](https://twitter.com/HAL9_HARUKU)
+- [James Wilson](https://github.com/sssynk)
 
-## —š—ğ
+## å±¥æ­´ / Updates
 
-2021/05/16 v0.1.0
-V‹Kì¬
+2022/06/26 v0.1.0 macOS
+Tested fully on macOS
+macOSã§å®Œå…¨ã«ãƒ†ã‚¹ãƒˆæ¸ˆã¿
